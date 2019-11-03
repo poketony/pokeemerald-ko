@@ -8,7 +8,7 @@ gText_Birch_Welcome::
 
 gText_Birch_Pokemon::
 	.string "포켓몬스터\n"
-	.string "...즉 포켓몬$"
+	.string "……즉 포켓몬$"
 
 gText_Birch_MainSpeech::
 	.string "이 세계에는\n"
@@ -20,7 +20,7 @@ gText_Birch_MainSpeech::
 	.string "때로는 힘을 합쳐\n" 
 	.string "싸우면서\l"
 	.string "함께 살고 있지!\p"
-	.string "...하지만 우리는 포켓몬에 대해\n"
+	.string "……하지만 우리는 포켓몬에 대해\n"
 	.string "모든 것을 알고 있지는 않다\p"
 	.string "포켓몬의 비밀은\n"
 	.string "아직도 많이 있어!\p"
@@ -29,7 +29,7 @@ gText_Birch_MainSpeech::
 	.string "뭐 그런 말씀이지!\p$"
 
 gText_Birch_AndYouAre::
-	.string "그건 그렇고...$"
+	.string "그건 그렇고……$"
 
 gText_Birch_BoyOrGirl::
 	.string "자네는 남자인가?\n"
@@ -39,13 +39,13 @@ gText_Birch_WhatsYourName::
 	.string "이름도 알려주면 좋겠구나!$"
 
 gText_Birch_SoItsPlayer::
-	.string "{PLAYER}(이)로구나?$"
+	.string "{PLAYER}{K_I}로구나?$"
 
 gText_Birch_YourePlayer::
-	.string "...아!\p"
+	.string "……아!\p"
 	.string "자네가 이번에 내가 사는 마을인\n"
 	.string "미로마을로 이사 온다는\l"
-	.string "{PLAYER}(이)로구나!\p$"
+	.string "{PLAYER}{K_I}로구나!\p$"
 
 gText_Birch_AreYouReady::
 	.string "좋-아 준비는 되었는가?\p"
