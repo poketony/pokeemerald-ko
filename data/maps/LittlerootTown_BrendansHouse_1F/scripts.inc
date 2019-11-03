@@ -295,153 +295,176 @@ LittlerootTown_BrendansHouse_1F_Movement_BrendanGoUpstairs2: @ 81F7A16
 	step_end
 
 PlayersHouse_1F_Text_IsntItNiceInHere: @ 81F7A1C
-	.string "MOM: See, {PLAYER}?\n"
-	.string "Isn't it nice in here, too?$"
+	.string "엄마: {PLAYER}{K_AYA} 봐 보렴\n"
+	.string "집 안도 멋지지 않니?$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock: @ 81F7A46
-	.string "The mover's POKéMON do all the work\n"
-	.string "of moving us in and cleaning up after.\l"
-	.string "This is so convenient!\p"
-	.string "{PLAYER}, your room is upstairs.\n"
-	.string "Go check it out, dear!\p"
-	.string "DAD bought you a new clock to mark\n"
-	.string "our move here.\l"
-	.string "Don't forget to set it!$"
+	.string "집 안 정리를\n"
+	.string "이삿짐센터 포켓몬이 도와주니까\l"
+	.string "이렇게 편할 수가 없어!\p"
+	.string "{PLAYER}도 2층에 있는\n"
+	.string "네 방에 한번 가보렴!\p"
+	.string "아빠가 이사 기념으로\n"
+	.string "사 주신 시계가 있을 거니까\l"
+	.string "시간 좀 맞춰 둬$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom: @ 81F7B24
-	.string "MOM: Well, {PLAYER}?\p"
-	.string "Aren't you interested in seeing your\n"
-	.string "very own room?$"
+	.string "엄마: {PLAYER}\p"
+	.string "네 방은 안 봐도 되니?$"
 
 PlayersHouse_1F_Text_GoSetTheClock: @ 81F7B67
-	.string "MOM: {PLAYER}.\p"
-	.string "Go set the clock in your room, honey.$"
+	.string "엄마: {PLAYER}\n"
+	.string "방 안에 있는 시계 좀 맞춰줄래?$"
 
 PlayersHouse_1F_Text_OhComeQuickly: @ 81F7B96
-	.string "MOM: Oh! {PLAYER}, {PLAYER}!\n"
-	.string "Quick! Come quickly!$"
+	.string "엄마: ...아! {PLAYER}! {PLAYER}!\n"
+	.string "이리로 빨리 와보렴!$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn: @ 81F7BBC
-	.string "MOM: Look! It's PETALBURG GYM!\n"
-	.string "Maybe DAD will be on!$"
+	.string "엄마: 등화도시 체육관이 나오고 있어\n"
+	.string "아빠가 나올지도 몰라!!$"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim: @ 81F7BF1
-	.string "MOM: Oh… It's over.\p"
-	.string "I think DAD was on, but we missed him.\n"
-	.string "Too bad.$"
+	.string "엄마: 어머... 끝나버렸네\p"
+	.string "아빠가 나왔던 거 같은데\n"
+	.string "아쉽네$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor: @ 81F7C35
-	.string "Oh, yes.\n"
-	.string "One of DAD's friends lives in town.\p"
-	.string "PROF. BIRCH is his name.\p"
-	.string "He lives right next door, so you should\n"
-	.string "go over and introduce yourself.$"
+	.string "...아 맞다 맞다! 이 마을에\n"
+	.string "털보박사님이라고 하시는\l"
+	.string "아빠 친구분이 계시거든\p"
+	.string "박사님 집은 옆집이니까\n"
+	.string "얼른 인사 드리고 오렴!$"
 
 PlayersHouse_1F_Text_SeeYouHoney: @ 81F7CC3
-	.string "MOM: See you, honey!$"
+	.string "엄마: 그럼 다녀오렴!$"
 
 PlayersHouse_1F_Text_DidYouMeetProfBirch: @ 81F7CD8
-	.string "MOM: Did you introduce yourself to\n"
-	.string "PROF. BIRCH?$"
+	.string "엄마: 어머? 털보박사님은\n"
+	.string "잘 만나 뵙고 왔니?$"
 
 PlayersHouse_1F_Text_YouShouldRestABit: @ 81F7D08
-	.string "MOM: How are you doing, {PLAYER}?\n"
-	.string "You look a little tired.\p"
-	.string "I think you should rest a bit.$"
+	.string "엄마: 어떠니? {PLAYER}\n"
+	.string "조금 지쳐 보이네?\p"
+	.string "집에서 좀 쉬다 가렴$"
 
 PlayersHouse_1F_Text_TakeCareHoney: @ 81F7D5C
-	.string "MOM: Take care, honey!$"
+	.string "엄마: 그럼 조심하고!$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom: @ 81F7D73
-	.string "MOM: Oh? Did DAD give you that BADGE?\p"
-	.string "Then here's something from your MOM!$"
+	.string "엄마: 어머 그 배지\n"
+	.string "아빠한테 받은 거니!?\p"
+	.string "그럼 엄마도 이거 줘야겠다$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard: @ 81F7DBE
-	.string "Don't push yourself too hard, dear.\n"
-	.string "You can always come home.\p"
-	.string "Go for it, honey!$"
+	.string "너무 무리하지는 마렴\n"
+	.string "언제든지 집에 와도 되니까!\p"
+	.string "그럼 힘내!$"
 
 PlayersHouse_1F_Text_IsThatAPokenav: @ 81F7E0E
-	.string "MOM: What is that, honey? A POKéNAV?\n"
-	.string "Someone from DEVON gave it to you?\p"
-	.string "Well, honey, how about registering\n"
-	.string "your mom?\p"
-	.string "… … …$"
-
+	.string "엄마: 그건 뭐니? 포켓내비?\n"
+	.string "데봉의 직원에게서 받은 거니?\p"
+	.string "그럼 엄마의 것도\n"
+	.string "등록해둘까나!\p"
+	.string "... ... ...$"
+	//ママ『なあに それ? ポケナビ?ｎ
+	//デボンの ひとから いただいたの?ｐ
+	//じゃあ ママの こともｎ
+	//とうろくして もらっちゃおうかな!
+	//ｐ…… …… ……
 PlayersHouse_1F_Text_RegisteredMom: @ 81F7E89
-	.string "Registered MOM\n"
-	.string "in the POKéNAV.$"
-
+	.string "엄마를\n"
+	.string "포켓내비에 등록했다!$"
+	//ママをｎ
+	//ポケナビに とうろく した!
 PlayersHouse_1F_Text_Vigoroth1: @ 81F7EA8
-	.string "Fugiiiiih!$"
+	.string "후기-잇$"
 
 PlayersHouse_1F_Text_Vigoroth2: @ 81F7EB3
-	.string "Huggoh, uggo uggo…$"
+	.string "후곳 후고 후고...$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym: @ 81F7EC6
-	.string "INTERVIEWER: …We brought you this\n"
-	.string "report from in front of PETALBURG GYM.$"
+	.string "인터뷰어: ...이상으로\n"
+	.string "등화도시 체육관 앞에서\l"
+	.string "전해드렸습니다!$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV: @ 81F7F0F
-	.string "There is a movie on TV.\p"
-	.string "Two men are dancing on a big piano\n"
-	.string "keyboard.\p"
-	.string "Better get going!$"
+	.string "TV에서 영화를 하고 있다!\p"
+	.string "어른과 아이가 같이\n"
+	.string "커다란 피아노 위에서 춤추고 있다!\p"
+	.string "빨리 가자!$"
 
 PlayersHouse_1F_Text_RunningShoesManual: @ 81F7F66
-	.string "It's the instruction booklet for the\n"
-	.string "RUNNING SHOES.\p"
-	.string "“Press the B Button to run while\n"
-	.string "wearing your RUNNING SHOES.\p"
-	.string "“Lace up your RUNNING SHOES and hit\n"
-	.string "the road running!”$"
+	.string "러닝슈즈의 사용설명서다!\p"
+	.string "“러닝슈즈는\n"
+	.string "  B 버튼을 누르면 지금보다\l"
+	.string "  빨리 달릴 수 있게 해줍니다!\p"
+	.string "  러닝슈즈를 신고\n"
+	.string "  마음껏 달립시다!”$"
 
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou: @ 81F800E
-	.string "DAD: Hm?\p"
-	.string "Hey, it's {PLAYER}!\p"
-	.string "It's been a while since I saw you,\n"
-	.string "but you look…stronger, somehow.\p"
-	.string "That's the impression I get.\n"
-	.string "But your old man hasn't given up yet!\p"
-	.string "Oh, yes, I have something for you.\n"
-	.string "This came to you from someone named\l"
-	.string "MR. BRINEY.$"
+	.string "아빠: 응?\p"
+	.string "{PLAYER} 아니냐!\p"
+	.string "오랜만에 보는데\n"
+	.string "어딘지 모르게 늠름해진 거 같은...\l"
+	.string "그런 느낌이 드는구나\p"
+	.string "그렇지만 나도\n"
+	.string "아직까진 팔팔하다고\p"
+	.string "...아 그래 맞다\n"
+	.string "네 앞으로 하기라는 사람한테서\l"
+	.string "이게 도착했어!.$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove: @ 81F80FE
-	.string "DAD: Hm, a TICKET for a ferry?\p"
-	.string "If I recall, there are ferry ports in\n"
-	.string "SLATEPORT and LILYCOVE.$"
+	.string "아빠: 승선티켓이구나...\p"
+	.string "분명 배를 타는 선착장은\n"
+	.string "잿빛도시 또는 해안시티에 있었지$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym: @ 81F815B
-	.string "I'd better get back to PETALBURG GYM.\p"
-	.string "MOM, thanks for looking after the house\n"
-	.string "while I'm away.$"
+	.string "그럼 난\n"
+	.string "등화도시 체육관에 돌아갈게\p"
+	.string "여보\n"
+	.string "그럼 다녀올게$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger: @ 81F81B9
-	.string "MOM: That DAD of yours…\p"
-	.string "He comes home for the first time in a\n"
-	.string "while, but all he talks about is POKéMON.\p"
-	.string "He should relax and stay a little longer.$"
+	.string "엄마: 네 아빠는 정말\n"
+	.string "일밖에 모르는 사람이야\p"
+	.string "오랜만에 집에 왔지만\n"
+	.string "결국 포켓몬 얘기밖에 하지 않았단다\p"
+	.string "가끔은 집에서\n"
+	.string "천천히 쉬었다 가면 좋을 텐데!$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory: @ 81F824B
-	.string "MOM: Is that a breaking news story?$"
+	.string "엄마: 뭔가 뉴스인 건가?$"
 
 PlayersHouse_1F_Text_LatiEmergencyNewsFlash: @ 81F826F
-	.string "We bring you this emergency\n"
-	.string "news flash!\p"
-	.string "In various HOENN locales, there have\n"
-	.string "been reports of a BZZT…colored\l"
-	.string "POKéMON in flight.\p"
-	.string "The identity of this POKéMON is\n"
-	.string "currently unknown.\p"
-	.string "We now return you to the regular\n"
-	.string "movie program.$"
-
+	.string "임시 뉴스입니다\p"
+	.string "호연지방 각지에서\n"
+	.string "...색의 포켓몬이 날아다니는 걸\l"
+	.string "봤다는 정보가 들어왔습니다\p"
+	.string "아직까지 정체는\n"
+	.string "확인하지 못했다고 합니다...\p"
+	.string "그럼 계속 이어지는\n"
+	.string "영화를 즐겨주십시오$"
+	//りんじ ニュ-ス ですｐ
+	//ホウエンちほうの かくちでｎ
+	//……いろの ポケモンが とんでいたｌ
+	//という じょうほうが よせられていますｐ
+	//いまのところ しょうたいはｎ
+	//わかって いない ようです……ｐ
+	//では ひきつづきｎ
+	//えいがを おたのしみ ください
+	
 PlayersHouse_1F_Text_WhatColorDidTheySay: @ 81F8351
-	.string "MOM: {PLAYER}, did you catch that?\p"
-	.string "What color did the announcer say\n"
-	.string "that POKéMON was?$"
-
+	.string "엄마: 저기 저기 {PLAYER}{K_AYA}\n"
+	.string "지금 뉴스\l"
+	.string "무슨 색의 포켓몬에 대해\l"
+	.string "말하던 거였니?$"
+	//ママ『ねえ ねえ {PLAYER}ｎ
+	//いまの ニュ-スｌ
+	//なにいろの ポケモンって いってたの?
+	
 PlayersHouse_1F_Text_StillUnknownPokemon: @ 81F83A1
-	.string "MOM: Well, isn't that something!\n"
-	.string "There are still unknown POKéMON.$"
+	.string "엄마: 흐음- 아직도\n"
+	.string "알려지지 않은 포켓몬이 있구나$"
+	//ママ『へえ- まだまだｎ
+	//しられていない ポケモンは いるのねえ

@@ -947,9 +947,11 @@ LittlerootTown_Text_1E86BC: @ 81E86BC
 	//すみやすそうな ところ でしょ?ｐ
 	//こんどは {PLAYER}の おへやも あるのよ!ｎ
 	//さあ なかに はいりましょ!
+	
 LittlerootTown_Text_1E87E1: @ 81E87E1
 	.string "엄마: 잠깐 기다리렴 {PLAYER}!$"
-
+	//ママ『まって {PLAYER}!
+	
 LittlerootTown_Text_1E87F0: @ 81E87F0
 	.string "엄마: {PLAYER}! {PLAYER}!\n"
 	.string "털보박사님께는 인사했니?\p"
@@ -962,27 +964,47 @@ LittlerootTown_Text_1E87F0: @ 81E87F0
 	.string "러닝슈즈를 신어야지!\p"
 	.string "여러 장소를\n"
 	.string "달릴 수 있게 될 거야!$"
-
+	//ママ『{PLAYER}! {PLAYER}!ｎ
+	//オダマキはかせに あいさつ した?ｐ
+	//あら! かわいい ポケモン!ｎ
+	//オダマキはかせ に いただいたのねｐ
+	//やっぱり パパの こども なのね……ｎ
+	//ポケモンと いっしょに いるのがｌ
+	//さまに なっているわよ!ｐ
+	//ほらっ! ぼうけんに でるならｎ
+	//ランニングシュ-ズを はくと いいわ!ｐ
+	//いろんな ところｎ
+	//はしれるように なるわよ!
+	
 LittlerootTown_Text_1E8925: @ 81E8925
 	.string "{PLAYER}{K_EUNNEUN}\n"
 	.string "러닝슈즈로 갈아 신었다!$"
-
+	//{PLAYER}は ランニングシュ-ズにｎ
+	//はきかえた!
+	
 LittlerootTown_Text_1E894F: @ 81E894F
-	.string "엄마: 음- 그리고\n"
-	.string "설명서를 읽어보자꾸나\p"
+	.string "엄마: {PLAYER}!\n"
+	.string "이게 설명서란다\p"
 	.string "“러닝슈즈는\n"
-	.string " B 버튼을 누르면 지금보다\l"
-	.string " 빨리 달릴 수 있게 해 줍니다!\p"
-	.string " 러닝슈즈를 신고\n"
-	.string " 마음껏 달립시다!”$"
-
+	.string "  B 버튼을 누르면 지금보다\l"
+	.string "  빨리 달릴 수 있게 해 줍니다!\p"
+	.string "  러닝슈즈를 신고\n"
+	.string "  마음껏 달립시다!”$"
+	//ママ『{PLAYER}!ｎ
+	//これが せつめいしょ よｐ
+	//「ランニングシュ-ズはｎ
+	//Bボタンを おすことで いままでよりもｌ
+	//はやく はしれるように なります!ｐ
+	//ランニングシュ-ズを はいてｎ//
+	//おもいっきり そとを はしろう!」
+	
 LittlerootTown_Text_1E8A03: @ 81E8A03
-	.string "…… …… ……\n"
-	.string "…… …… ……\p"
+	.string "...... ...... ......\n"
+	.string "...... ...... ......\p"
 	.string "네가 자신의 포켓몬을\n"
 	.string "가지게 될 줄이야...\l"
 	.string "아빠가 알면 정말 기뻐하시겠다!\p"
-	.string "……그치만 무리는 하지 마렴\n"
+	.string "...그치만 무리는 하지 마렴\n"
 	.string "무슨 일이 생기면\l"
 	.string "집으로 와도 되니까\p"
 	.string "그럼 힘내!$"
@@ -1008,25 +1030,33 @@ LittlerootTown_Text_1E8BB8: @ 81E8BB8
 	.string "야생 포켓몬이 나와버려!$"
 
 LittlerootTown_Text_1E8C07: @ 81E8C07
-	.string "It's dangerous if you don't have\n"
-	.string "your own POKéMON.$"
+	.string "자기 포켓몬을 데리고 있지 않으면\n"
+	.string "위험하게 돼!$"
 
 LittlerootTown_Text_1E8C3A: @ 81E8C3A
-	.string "Um, hi!\p"
-	.string "There are scary POKéMON outside!\n"
-	.string "I can hear their cries!\p"
-	.string "I want to go see what's going on,\n"
-	.string "but I don't have any POKéMON…\p"
-	.string "Can you go see what's happening\n"
-	.string "for me?$"
-
+	.string "있지-있지-!\p"
+	.string "지금 마을 밖에서\n"
+	.string "무-서운 포켓몬의 소리가 들렸어!\p"
+	.string "뭐가 일어나고 있는지\n"
+	.string "보러 가고 싶은데\l"
+	.string "나 포켓몬을 데리고 있지 않아서...\p"
+	.string "{K_GIRL_CALL}\n"
+	.string "나 대신에 보고 와줄래?$"
+	//ねえ ねえ!ｐ
+	//いま まちの そとからｎ
+	//こわ-い ポケモンの こえが きこえたよ!ｐ
+	//なにが おこってるのか みにいきたいけどｎ
+	//わたし ポケモン もってないし……ｐ
+	//{K_GIRL_CALL}ｎ
+	//わたしの かわりに みてきて くれる?
+	
 LittlerootTown_Text_1E8CE3: @ 81E8CE3
-	.string "You saved PROF. BIRCH!\n"
-	.string "I'm so glad!$"
+	.string "{K_GIRL_CALL} 덕분에\n"
+	.string "박사님이 무사했어! 다행이다-$"
 
 LittlerootTown_Text_1E8D07: @ 81E8D07
-	.string "Are you going to catch POKéMON?\n"
-	.string "Good luck!$"
+	.string "포켓몬 잡으러 가는 거야?\n"
+	.string "파이팅!$"
 
 LittlerootTown_Text_1E8D32: @ 81E8D32
 	.string "여기는 미로마을\n"
@@ -1042,13 +1072,23 @@ LittlerootTown_Text_1E8D8E: @ 81E8D8E
 	.string "“털보박사의 집”$"
 
 LittlerootTown_Text_1E8DA2: @ 81E8DA2
-	.string "PROF. BIRCH: Well, well, {PLAYER}{KUN}!\n"
-	.string "That was good work out there!\p"
-	.string "I knew there was something special\n"
-	.string "about you when I first saw you,\l"
-	.string "but I never expected this.\p"
-	.string "Oh, yes. Do you still have the POKéDEX\n"
-	.string "I gave you?\p"
-	.string "I have something to show you.\n"
-	.string "Let's go to my LAB.$"
-
+	.string "털보박사: 이야- {PLAYER}{K_AYA}!\n"
+	.string "그건 그렇고 훌륭하구나\p"
+	.string "처음에 너를 봤을 때부터\n"
+	.string "보통이 아닐 거라고 생각했었는데\l"
+	.string "설마 이 정도일 줄이야\p"
+	.string "그래그래!\n"
+	.string "네게 주었던 포켓몬 도감\l"
+	.string "아직 가지고 있지?\p"
+	.string "조금 이야기할 게 있으니까\n"
+	.string "함께 연구소까지 따라와 주렴$"
+	//オダマキ『いや- {PLAYER}{KUN}!ｎ
+	//それにしても みごと だったねｐ
+	//さいしょに きみを みたときからｎ
+	//ただもの ではないと おもったけどｌ
+	//まさか これほど とはねえｐ
+	//そうそう!ｎ
+	//きみに あげた ポケモンずかんｌ
+	//まだ もってるよね?ｐ
+	//ちょっと はなしが あるからｎ
+	//いっしょに けんきゅうじょまで おいで
