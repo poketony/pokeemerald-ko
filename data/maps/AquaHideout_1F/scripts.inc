@@ -51,69 +51,93 @@ AquaHideout_1F_EventScript_Grunt1Defeated:: @ 8233513
 	end
 
 AquaHideout_1F_Text_OurBossIsSnatchingSomething: @ 823351D
-	.string "What? What? What do you want with \n"
-	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here! He's gone off to\n"
-	.string "snatch something important!\p"
-	.string "… …\n"
-	.string "Where did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
-
+	.string "뭐야 뭐야!\n"
+	.string "우리 아쿠아단한테 무슨 볼일이야!\p"
+	.string "리더라면 지금 중요한 물건을\n"
+	.string "빼앗으러 가서 여기엔 없어!\p"
+	.string "...어디 갔냐고?\p"
+	.string "와하하하! 그런 중요한 정보를\n"
+	.string "내가 알려줄 거 같으냐!$"
+	//なんだ なんだ!ｎ
+	//おれたち アクアだんに なんの ようだ!ｐ
+	//リ-ダ-だったら いま だいじな ものをｎ
+	//ぶんどりに でかけていて るすだぞ!ｐ
+	//……どこに いったのか だって?ｐ
+	//わはははっ!
+	//そんな だいじな ことをｎ
+	//おしえられる わけ ないだろうが!
+	
 AquaHideout_1F_Text_WhereMightMagmaHideoutBe: @ 82335E3
-	.string "What? What?\n"
-	.string "Are you a TEAM MAGMA grunt?\p"
-	.string "I hear that TEAM MAGMA is trying to\n"
-	.string "awaken an awesome POKéMON at their\l"
-	.string "HIDEOUT.\p"
-	.string "But where might their HIDEOUT be?$"
+	.string "뭐야 뭐야!\n"
+	.string "너 마그마단의 조무래기냐?!\p"
+	.string "마그마단 놈들 아지트에서\n"
+	.string "굉장한 포켓몬을\l"
+	.string "눈뜨게 할 건가 봐!\p"
+	.string "에-잇! 아지트는\n"
+	.string "대체 어디에 있는 거야!$"
+	//なんだ なんだ!ｎ
+	//おまえは マグマだんの したっぱか!?ｐ
+	//マグマだんめ アジトで すごいポケモンをｎ
+	//めざめさせる つもり らしいな!ｐ
+	//え-い! アジトはｎ
+	//いったい どこに あるって いうんだ!	
 
 AquaHideout_1F_Text_BossWentToJackASubmarine: @ 823367D
-	.string "What? What? What do you want with \n"
-	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here!\n"
-	.string "He's gone off to jack a submarine!\p"
-	.string "… …\n"
-	.string "Where did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
-
+	.string "뭐야 뭐야!\n"
+	.string "우리 아쿠아단한테 무슨 볼일이야!\p"
+	.string "리더라면 지금 잠수정을\n"
+	.string "빼앗으러 가서 여기엔 없어!\p"
+	.string "...어디 갔냐고?\p"
+	.string "와하하하! 그런 중요한 정보를\n"
+	.string "내가 알려줄 거 같으냐!$"
+	//なんだ なんだ!ｎ
+	//おれたち アクアだんに なんの ようだ!ｐ
+	//リ-ダ-だったら いま せんすいていをｎ
+	//ぶんどりに でかけていて るすだぞ!ｐ
+	//……どこに いったのか だって?ｐ
+	//わはははっ! そんな だいじな ことをｎ
+	//おしえられる わけ ないだろうが!
+	
 AquaHideout_1F_Text_BossIsOnRoute122: @ 8233739
-	.string "What? What? What do you want with \n"
-	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here! He's on his way to\n"
-	.string "MT. PYRE on ROUTE 122!\p"
-	.string "… …\n"
-	.string "Why did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.string "뭐야 뭐야!\n"
+	.string "우리 아쿠아단한테 무슨 볼일이야!\p"
+	.string "리더라면 지금 122번 수로에 있는\n"
+	.string "송화산으로 가고 있어서 여긴 없어\p"
+	.string "...뭐 하러 갔냐고?\n"
+	.string "아하하하! 그런 중요한 정보를\n"
+	.string "내가 알려줄 거 같으냐!$"
 
 AquaHideout_1F_Text_TeamMagmaAtMtChimney: @ 82337FA
-	.string "What? What?\n"
-	.string "Are you a TEAM MAGMA grunt?\p"
-	.string "I hear that TEAM MAGMA is after\n"
-	.string "an awesome POKéMON at MT. CHIMNEY.\p"
-	.string "But what is that POKéMON like?$"
-
+	.string "뭐야 뭐야!\n"
+	.string "너 마그마단의 조무래기냐?!\p"
+	.string "굴뚝산에는 마그마단이 노리는\n"
+	.string "굉장한 포켓몬이 있나 봐!\p"
+	.string "에-잇! 그건\n"
+	.string "대체 무슨 포켓몬인 거지?$"
+	//なんだ なんだ!ｎ
+	//おまえは マグマだんの したっぱか!?ｐ
+	//えんとつやまには マグマだんが ねらうｎ
+	//すごい ポケモンが いるらしいな!ｐ
+	//え-い! そいつはｎ
+	//いったい どんな ポケモン なんだ!
+	
 AquaHideout_1F_Text_BossIsInSlateportCity: @ 8233884
-	.string "What? What? What do you want with\n"
-	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here!\n"
-	.string "He's on his way to SLATEPORT CITY!\p"
-	.string "… …\n"
-	.string "Why did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.string "뭐야 뭐야!\n"
+	.string "우리 아쿠아단한테 무슨 볼일이야!\p"
+	.string "리더라면 지금 잿빛도시로\n"
+	.string "가고 있어서 여기엔 없어!\p"
+	.string "... ...뭐 하러 갔냐고?\n"
+	.string "아하하하! 그런 중요한 정보를\n"
+	.string "내가 알려줄 거 같으냐!$"
 
 AquaHideout_1F_Text_Grunt1Intro: @ 823393D
-	.string "Ayiyiyi!\n"
-	.string "Suspicious character spotted!$"
+	.string "야야얏!\n"
+	.string "수상한 인물 발-견!$"
 
 AquaHideout_1F_Text_Grunt1Defeat: @ 8233964
-	.string "Grrrrr…\n"
-	.string "I lost it!$"
+	.string "으-음 져버렸군-!$"
 
 AquaHideout_1F_Text_Grunt1PostBattle: @ 8233977
-	.string "I took the loss for the TEAM,\n"
-	.string "but I did my job…$"
+	.string "승부에서는 졌지만\n"
+	.string "나는 임무를 달성했다...$"
 
