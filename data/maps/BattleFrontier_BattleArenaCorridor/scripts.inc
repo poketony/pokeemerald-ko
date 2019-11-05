@@ -85,6 +85,6 @@ BattleFrontier_BattleArenaCorridor_Movement_257446: @ 8257446
 	step_end
 
 BattleFrontier_BattleArenaCorridor_Text_257449: @ 8257449
-	.string "Your battles shall be waged in\n"
-	.string "the next room. Please step in!$"
+	.string "이 앞이 대전의 방입니다!\n"
+	.string "부디 안으로 들어가시지요!$"
 
