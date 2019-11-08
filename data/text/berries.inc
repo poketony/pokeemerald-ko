@@ -238,7 +238,7 @@ SootopolisCity_Text_2A7CEC:
 SootopolisCity_Text_2A7D80:
 	.string "그럼 난 가을에 태어났으니까\n"
 	.string "가을이 정말 좋아!\p"
-	.string "{PLAYER}는 언제가 좋아?$"
+	.string "{PLAYER}{K_EUNNEUN} 언제가 좋아?$"
 
 SootopolisCity_Text_2A7DD2:
 	.string "그렇구나...\n"

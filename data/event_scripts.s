@@ -964,29 +964,30 @@ Common_EventScript_PlayerHandedOverTheItem:: @ 82723E4
 
 @ The below and surf.inc could be split into some text/notices.inc
 gText_PokemartSign:: @ 8272B6A
-	.string "“Selected items for your convenience!”\n"
-	.string "POKéMON MART$"
+	.string "편리한 도구가 여러 가지 있습니다\n"
+	.string "“프렌들리숍”$"
 
 gText_PokemonCenterSign:: @ 8272B9E
-	.string "“Rejuvenate your tired partners!”\n"
-	.string "POKéMON CENTER$"
+	.string "지친 포켓몬도 휴식!\n"
+	.string "“포켓몬센터”$"
 
 gText_MomOrDadMightLikeThisProgram:: @ 8272BCF
-	.string "{STR_VAR_1} might like this program.\n"
-	.string "… … … … … … … … … … … … … … … …\p"
-	.string "Better get going!$"
+	.string "{STR_VAR_1}가 좋아할 것 같은\n"
+	.string "프로가 나오고 있다!\l"
+	.string "........................\p"
+	.string "빨리 가자!$"
 
 gText_WhichFloorWouldYouLike:: @ 8272C1D
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.\p"
-	.string "Which floor would you like?$"
+	.string "해안백화점에 어서 오세요!\p"
+	.string "몇 층으로 가십니까?$"
 
 gText_SandstormIsVicious:: @ 8272C5F
-	.string "The sandstorm is vicious.\n"
-	.string "It's impossible to keep going.$"
+	.string "사막의 모래바람이 심해서\n"
+	.string "앞으로 갈 수 없어!$"
 
 gText_SelectWithoutRegisteredItem:: @ 8272C98
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
+	.string "가방에 들어 있는 도구를\n"
+	.string "편리 버튼에 등록할 수 있습니다$"
 
 gText_PokemonTrainerSchoolEmail:: @ 8272CD5
 	.string "There's an e-mail from POKéMON TRAINER\n"
@@ -1016,31 +1017,34 @@ gText_RegisteredTrainerinPokeNav:: @ 8272E0F
 	.string "in the POKéNAV.$"
 
 gText_ComeBackWithSecretPower:: @ 8272E30
-	.string "Do you know the TM SECRET POWER?\p"
-	.string "Our group, we love the TM SECRET\n"
-	.string "POWER.\p"
-	.string "One of our members will give it to you.\n"
-	.string "Come back and show me if you get it.\p"
-	.string "We'll accept you as a member and sell\n"
-	.string "you good stuff in secrecy.$"
+	.string "“비밀의힘”이라고 하는\n"
+	.string "기술머신 알아?\p"
+	.string "우리는 기술머신 “비밀의힘”을\n"
+	.string "정말 좋아해\p"
+	.string "우리 멤버가\n"
+	.string "어딘가에서 주고 있으니까\l"
+	.string "그걸 받은 뒤에 다시 와!\p"
+	.string "너도 우리의 멤버가 되면\n"
+	.string "비밀로 좋은 걸 살 수 있게 해 주지$"
 
 gText_PokerusExplanation:: @ 8272F07
-	.string "Your POKéMON may be infected with\n"
-	.string "POKéRUS.\p"
-	.string "Little is known about the POKéRUS\n"
-	.string "except that they are microscopic life-\l"
-	.string "forms that attach to POKéMON.\p"
-	.string "While infected, POKéMON are said to\n"
-	.string "grow exceptionally well.$"
+	.string "맡겨 주신 포켓몬에\n"
+	.string "포켓러스가 붙어 있는 것 같습니다\p"
+	.string "자세한 것은 알 수 없지만\n"
+	.string "포켓러스라고 하는 것은\l"
+	.string "포켓몬에 붙는\l"
+	.string "작은 생명체라고 합니다\p"
+	.string "이것이 붙어 있는 동안\n"
+	.string "포켓몬이 잘 큰다고 합니다$"
 
 	.include "data/text/surf.inc"
 
 gText_DoorOpenedFarAway:: @ 827301B
-	.string "It sounded as if a door opened\n"
-	.string "somewhere far away.$"
+	.string "어딘가 멀리 있는 문이\n"
+	.string "열리는 듯한 소리다...$"
 
 gText_BigHoleInTheWall:: @ 827304E
-	.string "There is a big hole in the wall.$"
+	.string "벽에 큰 구멍이 있다!$"
 
 gText_SorryWirelessClubAdjustments:: @ 827306F
 	.string "I'm terribly sorry.\n"

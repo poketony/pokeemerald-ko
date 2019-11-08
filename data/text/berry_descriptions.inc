@@ -1,110 +1,110 @@
 gBerryDescriptionPart1_Cheri:: @ 8589AE4
-	.string "Blooms with delicate pretty flowers.$"
+	.string "매우 귀여운 꽃이 핀다.$"
 
 gBerryDescriptionPart2_Cheri:: @ 8589B09
-	.string "The bright red BERRY is very spicy.$"
+	.string "새빨간 열매는 아주 맵다.$"
 
 gBerryDescriptionPart1_Chesto:: @ 8589B2D
-	.string "The BERRY's thick skin and fruit are$"
+	.string "겉 부분과 속 모두$"
 
 gBerryDescriptionPart2_Chesto:: @ 8589B52
-	.string "very tough. It is dry-tasting all over.$"
+	.string "딱딱하다. 어느 부분을 먹어도 떫다.$"
 
 gBerryDescriptionPart1_Pecha:: @ 8589B7A
-	.string "Very sweet and delicious.$"
+	.string "매우 달고 맛있다.$"
 
 gBerryDescriptionPart2_Pecha:: @ 8589B94
-	.string "Also very tender - handle with care.$"
+	.string "부드러워서 운반할 때는 주의.$"
 
 gBerryDescriptionPart1_Rawst:: @ 8589BB9
-	.string "If the leaves grow long and curly,$"
+	.string "잎사귀의 부분이 길고 둥글게$"
 
 gBerryDescriptionPart2_Rawst:: @ 8589BDC
-	.string "the BERRY seems to grow very bitter.$"
+	.string "말려 있으면 아주 쓴 듯하다.$"
 
 gBerryDescriptionPart1_Aspear:: @ 8589C01
-	.string "The hard BERRY is dense with a rich$"
+	.string "딱딱한 열매 속에는 수분이 매우$"
 
 gBerryDescriptionPart2_Aspear:: @ 8589C25
-	.string "juice. It is quite sour.$"
+	.string "많이 들어 있다. 꽤 시다.$"
 
 gBerryDescriptionPart1_Leppa:: @ 8589C3E
-	.string "Grows slower than CHERI and others.$"
+	.string "버치 등과 비교해 느리게$"
 
 gBerryDescriptionPart2_Leppa:: @ 8589C62
-	.string "The smaller the BERRY, the tastier.$"
+	.string "자란다. 열매가 작은 것일수록 맛있다.$"
 
 gBerryDescriptionPart1_Oran:: @ 8589C86
-	.string "A peculiar BERRY with a mix of flavors.$"
+	.string "여러 가지 맛이 섞인 신기한 열매.$"
 
 gBerryDescriptionPart2_Oran:: @ 8589CAE
-	.string "BERRIES grow in half a day.$"
+	.string "열매를 키우는 데 반나절이 걸린다.$"
 
 gBerryDescriptionPart1_Persim:: @ 8589CCA
-	.string "Loves sunlight. The BERRY's color$"
+	.string "태양을 좋아한다. 햇빛을 받으면$"
 
 gBerryDescriptionPart2_Persim:: @ 8589CEC
-	.string "grows vivid when exposed to the sun.$"
+	.string "점점 색이 선명해진다.$"
 
 gBerryDescriptionPart1_Lum:: @ 8589D11
-	.string "Slow to grow. If raised with loving$"
+	.string "자라는 데 시간이 걸리지만 소중하게$"
 
 gBerryDescriptionPart2_Lum:: @ 8589D35
-	.string "care, it may grow two BERRIES.$"
+	.string "키우면 열매가 2개 자라기도 한다.$"
 
 gBerryDescriptionPart1_Sitrus:: @ 8589D54
-	.string "Closely related to ORAN. The large$"
+	.string "오랭과는 형제 같은 존재.$"
 
 gBerryDescriptionPart2_Sitrus:: @ 8589D77
-	.string "BERRY has a well-rounded flavor.$"
+	.string "크고 맛도 고르다.$"
 
 gBerryDescriptionPart1_Figy:: @ 8589D98
-	.string "The BERRY, which looks chewed up,$"
+	.string "먹힌 듯한 모양 속에는$"
 
 gBerryDescriptionPart2_Figy:: @ 8589DBA
-	.string "brims with spicy substances.$"
+	.string "매운 성분이 가득 차 있다.$"
 
 gBerryDescriptionPart1_Wiki:: @ 8589DD7
-	.string "The BERRY is said to have grown lumpy$"
+	.string "주위에 붙어 있는 돌기는 포켓몬이$"
 
 gBerryDescriptionPart2_Wiki:: @ 8589DFD
-	.string "to help POKéMON grip it.$"
+	.string "지니기 쉽게 하기 위해서라고 한다.$"
 
 gBerryDescriptionPart1_Mago:: @ 8589E16
-	.string "The BERRY turns curvy as it grows.$"
+	.string "크게 자랄수록 열매가 구부러진다.$"
 
 gBerryDescriptionPart2_Mago:: @ 8589E39
-	.string "The curvier, the sweeter and tastier.$"
+	.string "구부러질수록 달고 맛있다.$"
 
 gBerryDescriptionPart1_Aguav:: @ 8589E5F
-	.string "The flower is dainty. It is rare in its$"
+	.string "작은 크기의 꽃으로 그것도 빛을$"
 
 gBerryDescriptionPart2_Aguav:: @ 8589E87
-	.string "ability to grow without light.$"
+	.string "필요로 하지 않는 희귀한 나무열매다.$"
 
 gBerryDescriptionPart1_Iapapa:: @ 8589EA6
-	.string "The BERRY is very big and sour.$"
+	.string "매우 크고 신 나무열매다.$"
 
 gBerryDescriptionPart2_Iapapa:: @ 8589EC6
-	.string "It takes at least a day to grow.$"
+	.string "키우는 데는 적어도 1일이 걸린다.$"
 
 gBerryDescriptionPart1_Razz:: @ 8589EE7
-	.string "The red BERRY tastes slightly spicy.$"
+	.string "빨간 열매는 먹으면 약간 맵고$"
 
 gBerryDescriptionPart2_Razz:: @ 8589F0C
-	.string "It grows quickly in just four hours.$"
+	.string "빠르게 자라서 4시간이면 열매가 열린다.$"
 
 gBerryDescriptionPart1_Bluk:: @ 8589F31
-	.string "The BERRY is blue on the outside, but$"
+	.string "겉 부분은 파란색이지만 먹으면$"
 
 gBerryDescriptionPart2_Bluk:: @ 8589F57
-	.string "it blackens the mouth when eaten.$"
+	.string "입속이 새까맣게 된다.$"
 
 gBerryDescriptionPart1_Nanab:: @ 8589F79
-	.string "This BERRY was the seventh$"
+	.string "세상에서 7번째로 발견된 것이$"
 
 gBerryDescriptionPart2_Nanab:: @ 8589F94
-	.string "discovered in the world. It is sweet.$"
+	.string "이름의 유래라는 설이 유력하다. 달다.$"
 
 gBerryDescriptionPart1_Wepear:: @ 8589FBA
 	.string "The flower is small and white. It has a$"

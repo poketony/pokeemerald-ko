@@ -114,54 +114,58 @@ AquaHideout_B1F_EventScript_Grunt25:: @ 8233AEC
 	end
 
 AquaHideout_B1F_Text_Grunt2Intro: @ 8233B03
-	.string "If you want to know the secret about\n"
-	.string "our HIDEOUT, you have me to beat!$"
+	.string "아지트의 비밀을 알고 싶으면\n"
+	.string "이 몸을 쓰려뜨려 보시지!$"
 
 AquaHideout_B1F_Text_Grunt2Defeat: @ 8233B4A
-	.string "I can't win at all…$"
+	.string "절대 이길 수 없을 것 같습니다...!$"
 
 AquaHideout_B1F_Text_Grunt2PostBattle: @ 8233B5E
-	.string "Our HIDEOUT's secret?\p"
-	.string "Well, let's just say…\n"
-	.string "There's a submarine at the far end!\p"
-	.string "But, by now…\n"
-	.string "Kekekeke…$"
+	.string "아지트의 비밀?\p"
+	.string "그건 말이지... 가장 안쪽에\n"
+	.string "잠수정이 있다는 거야!\p"
+	.string "하지만 지금쯤...\n"
+	.string "이히히...!$"
 
 AquaHideout_B1F_Text_Grunt3Intro: @ 8233BC5
-	.string "Fuel supply loaded A-OK!\n"
-	.string "In-cruise snacks loaded A-OK!\p"
-	.string "Nothing left to do but KO a pesky\n"
-	.string "meddler!$"
+	.string "연료 보급 OK!\n"
+	.string "과자 보급도 OK!\p"
+	.string "남은 건\n"
+	.string "방해꾼을 처치하는 것뿐이군!$"
 
 AquaHideout_B1F_Text_Grunt3Defeat: @ 8233C27
-	.string "I took a serious licking!$"
+	.string "제대로 당했다-앗!$"
 
 AquaHideout_B1F_Text_Grunt3PostBattle: @ 8233C41
-	.string "Humph!\n"
-	.string "This was supposed to happen!\p"
-	.string "My mission was to just hold you up!$"
+	.string "흥! 이제 됐어!\p"
+	.string "널 방해하는 게\n"
+	.string "내 임무였으니까$"
 
 AquaHideout_B1F_Text_Grunt21Intro: @ 8233C89
-	.string "Yawn… Keeping watch over the\n"
-	.string "HIDEOUT bores me. I'll take you on.$"
+	.string "하-앙 아지트를 지키고 있는 것도\n"
+	.string "너무 지루하니까 상대해줄게용-$"
 
 AquaHideout_B1F_Text_Grunt21Defeat: @ 8233CCA
-	.string "Yawn…\n"
-	.string "Oh, I lost…$"
+	.string "하-앙 져버렸어용-$"
 
 AquaHideout_B1F_Text_Grunt21PostBattle: @ 8233CDC
-	.string "If you scurry too much, other TEAM\n"
-	.string "AQUA members might get you.$"
+	.string "너무 종종걸음으로 돌아다니면\n"
+	.string "다른 아쿠아단에게 당할지도 몰라용-$"
 
 AquaHideout_B1F_Text_Grunt25Intro: @ 8233D1B
-	.string "Hey!\n"
-	.string "You there!\p"
-	.string "Which do you think is cooler?\n"
-	.string "TEAM AQUA's uniform or TEAM MAGMA's?$"
+	.string "잠깐 거기 당신!\p"
+	.string "아쿠아단과 마그마단의 유니폼\n"
+	.string "어느 쪽이 멋있다고 생각해?$"
+	//$ちょっと そこの あんた!ｐ
+	//アクアだんと マグマだんの ユニフォ-ムｎ
+	//どっちが かっこいいと おもう?
 
 AquaHideout_B1F_Text_Grunt25Defeat: @ 8233D6E
-	.string "I lost in a cool way…$"
+	.string "보기 좋게 당했네...$"
+	//かっこよく まけたわ……
 
 AquaHideout_B1F_Text_Grunt25PostBattle: @ 8233D84
-	.string "If you have a cool uniform, you look\n"
-	.string "good even in a loss, don't you think?$"
+	.string "유니폼이 멋있으면\n"
+	.string "승부에서 져도 보기 좋지 않아?$"
+	//ユニフォ-ムが かっこいいとｎ
+	//しょうぶに まけても えになる でしょ?

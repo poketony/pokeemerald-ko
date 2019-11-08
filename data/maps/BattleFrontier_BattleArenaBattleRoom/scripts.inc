@@ -558,155 +558,234 @@ BattleFrontier_BattleArenaBattleRoom_Movement_257C3A: @ 8257C3A
 	step_end
 
 BattleFrontier_BattleArenaBattleRoom_Text_257C3D: @ 8257C3D
-	.string "REFEREE: TRAINER {PLAYER}!\n"
-	.string "Step forward, please!$"
+	.string "심판: 트레이너 {PLAYER}!\n"
+	.string "앞으로---!$"
+	//しんぱん『トレ-ナ- {PLAYER}!\n
+	//まえへ---!
 
 BattleFrontier_BattleArenaBattleRoom_Text_257C68: @ 8257C68
-	.string "REFEREE: TRAINER {STR_VAR_1}!\n"
-	.string "Step forward, please!$"
+	.string "심판: 트레이너 {STR_VAR_1}!\n"
+	.string "앞으로---!$"
+	//しんぱん『トレ-ナ- {STR_VAR_1}!\n
+	//まえへ---!
 
 BattleFrontier_BattleArenaBattleRoom_Text_257C93: @ 8257C93
 FallarborTown_BattleTentBattleRoom_Text_257C93: @ 8257C93
-	.string "REFEREE: Set KO Tourney!\n"
-	.string "Begin!$"
+	.string "심판: 연승 팀배틀!\n"
+	.string "시작---!!$"
+	//しんぱん『かちぬきチ-ムバトル!ｎ
+	//はじめ---!!
 
 BattleFrontier_BattleArenaBattleRoom_Text_257CB3: @ 8257CB3
 FallarborTown_BattleTentBattleRoom_Text_257CB3: @ 8257CB3
-	.string "REFEREE: The winner is {PLAYER}!$"
+	.string "심판: 승자는---!\n"
+	.string "{PLAYER}!!$"
+	//しんぱん『しょうしゃ---!ｎ
+	//{PLAYER}!!
 
 BattleFrontier_BattleArenaBattleRoom_Text_257CCE: @ 8257CCE
 FallarborTown_BattleTentBattleRoom_Text_257CCE: @ 8257CCE
-	.string "REFEREE: The winner is {STR_VAR_1}!$"
+	.string "심판: 승자는---!\n"
+	.string "{STR_VAR_1}!!$"
+	//しんぱん『しょうしゃ---!ｎ
+	//{STR_VAR_1}!!
 
 BattleFrontier_BattleArenaBattleRoom_Text_257CE9: @ 8257CE9
 FallarborTown_BattleTentBattleRoom_Text_257CE9: @ 8257CE9
-	.string "Your POKéMON will be restored to\n"
-	.string "full health.$"
+	.string "포켓몬의 체력을\n"
+	.string "회복시켜 드리겠습니다!$"
+	//ポケモンの たいりょくをｎ
+	//かいふく いたしますぞ!
 
 BattleFrontier_BattleArenaBattleRoom_Text_257D17: @ 8257D17
 FallarborTown_BattleTentBattleRoom_Text_257D17: @ 8257D17
-	.string "Next up, your second opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "다음은 2명째 상대입니다!\n"
+	.string "준비되셨습니까?$"
+	//つぎは 2にんめの あいてですぞ!ｎ
+	//じゅんびは よろしい ですかな?
 
 BattleFrontier_BattleArenaBattleRoom_Text_257D50: @ 8257D50
 FallarborTown_BattleTentBattleRoom_Text_257D50: @ 8257D50
-	.string "Next up, your third opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "다음은 3명째 상대입니다!\n"
+	.string "준비되셨습니까?$"
+	//つぎは 3にんめの あいてですぞ!ｎ
+	//じゅんびは よろしい ですかな?
 
 BattleFrontier_BattleArenaBattleRoom_Text_257D88: @ 8257D88
-	.string "Next up, your fourth opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "다음은 4명째 상대입니다!\n"
+	.string "준비되셨습니까?$"
+	//つぎは 4にんめの あいてですぞ!ｎ
+	//じゅんびは よろしい ですかな?
 
 BattleFrontier_BattleArenaBattleRoom_Text_257DC1: @ 8257DC1
-	.string "Next up, your fifth opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "다음은 5명째 상대입니다!\n"
+	.string "준비되셨습니까?$"
+	//つぎは 5にんめの あいてですぞ!ｎ
+	//じゅんびは よろしい ですかな?
 
 BattleFrontier_BattleArenaBattleRoom_Text_257DF9: @ 8257DF9
-	.string "Next up, your sixth opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "다음은 6명째 상대입니다!\n"
+	.string "준비되셨습니까?$"
+	//つぎは 6にんめの あいてですぞ!ｎ
+	//じゅんびは よろしい ですかな?
 
 BattleFrontier_BattleArenaBattleRoom_Text_257E31: @ 8257E31
-	.string "Next up, your seventh opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "다음은 7명째 상대입니다!\n"
+	.string "준비되셨습니까?$"
+	//つぎは 7にんめの あいてですぞ!ｎ
+	//じゅんびは よろしい ですかな?
 
 BattleFrontier_BattleArenaBattleRoom_Text_257E6B: @ 8257E6B
 FallarborTown_BattleTentBattleRoom_Text_257E6B: @ 8257E6B
-	.string "Would you like to save the game and\n"
-	.string "shut down now?$"
+	.string "리포트를 작성하고\n"
+	.string "중단할까요?$"
+	//レポ-トを かいてｎ
+	//しゅうりょう なされますかな?
 
 BattleFrontier_BattleArenaBattleRoom_Text_257E9E: @ 8257E9E
 FallarborTown_BattleTentBattleRoom_Text_257E9E: @ 8257E9E
-	.string "Would you like to retire from your\n"
-	.string "Set KO Tourney challenge?$"
+	.string "연승 팀배틀의 도전을\n"
+	.string "중단할까요?$"
+	//かちぬきチ-ムバトルの ちょうせんをｎ
+	//ちゅうし なされますかな?
 
 BattleFrontier_BattleArenaBattleRoom_Text_257EDB: @ 8257EDB
 FallarborTown_BattleTentBattleRoom_Text_257EDB: @ 8257EDB
-	.string "I am saving your game data.\n"
-	.string "Please wait.$"
+	.string "리포트를 작성하고 있습니다!\n"
+	.string "잠시 기다려 주십시오$"
+	//レポ-トを かいております!ｎ
+	//しばし おまちくだされ!
 
 BattleFrontier_BattleArenaBattleRoom_Text_257F04: @ 8257F04
-	.string "Would you like to record your last\n"
-	.string "battle on your FRONTIER PASS?$"
+	.string "지금의 승부를\n"
+	.string "프런티어패스에 기록하겠습니까?$"
+	//さきほどの たたかいをｎ
+	//フロンティアパスに きろく されますかな?
 
 BattleFrontier_BattleArenaBattleRoom_Text_257F45: @ 8257F45
-	.string "My dear challenger!\p"
-	.string "Your skill level is truly astounding!\p"
-	.string "We now would like you to face our\n"
-	.string "leader, the ARENA TYCOON!$"
+	.string "손님!\p"
+	.string "당신의 실력은\n"
+	.string "실로 굉장하군요!\n"
+	.string "그러니 이쯤에서 한번\n"
+	.string "우리들의 대장 아레나캡틴과\l"
+	.string "한 수 부탁드립니다!$"
+	//$おきゃくじん!ｐ
+	//あなたの じつりょくはｎ
+	//じつに すさまじいで ございますな!ｐ
+	//そこで ここらで ひとつｎ
+	//われらが たいしょう アリ-ナキャプテンとｌ
+	//おてあわせ いただき ましょう!
 
 BattleFrontier_BattleArenaBattleRoom_Text_257FBB: @ 8257FBB
-	.string "A battle with the ARENA TYCOON!\n"
-	.string "Are you prepared?$"
+	.string "아레나캡틴과의 승부!\n"
+	.string "각오는 되셨습니까?$"
+	//アリ-ナキャプテンとの しょうぶ!ｎ
+	//かくごの ほうは よろしい ですかな?
 
 BattleFrontier_BattleArenaBattleRoom_Text_257FED: @ 8257FED
-	.string "REFEREE: The ARENA TYCOON!\n"
-	.string "Make way for GRETA!$"
+	.string "심판: 아레나캡틴! 나리님!\n"
+	.string "입장하십니다---!$"
+	//しんぱん『アリ-ナキャプテン! コゴミさま!ｎ
+	//ごにゅうじょう---!
 
 BattleFrontier_BattleArenaBattleRoom_Text_25801C: @ 825801C
-	.string "GRETA: Hey!\n"
-	.string "Howdy!\p"
-	.string "…Wait, are you the challenger?$"
+	.string "나리: 네엡! 잘 부탁해-!!\p"
+	.string "... 라니 당신이 도전자?$"
+	//コゴミ『ウィ-ッス! よろしく-!!ｐ
+	//…… って あなたが ちょうせんしゃ?
 
 BattleFrontier_BattleArenaBattleRoom_Text_25804E: @ 825804E
-	.string "Is that right? Hmm…\n"
-	.string "Hmhm…$"
+	.string "흐-음... 헤-에... 헤에에에...$"
+	//ふ-ん…… へ-え…… へえぇぇ……
 
 BattleFrontier_BattleArenaBattleRoom_Text_258068: @ 8258068
-	.string "I don't know how to say it, but…\n"
-	.string "To put it bluntly, you look pretty weak.\l"
-	.string "Are you sure you're up for me?\p"
-	.string "Hmm…\p"
-	.string "Well, all right!\n"
-	.string "We'll take things easy to start with!$"
+	.string "뭐랄까- 솔직히 말해서\n"
+	.string "은근 약할 것 같은 느낌인데-\l"
+	.string "나하고 배틀해도\l"
+	.string "괜찮으려나-?\p"
+	.string "으으-음...\n"
+	.string "뭐 좋아!\n"
+	.string "곧고 가볍게 솜씨 좀 봐야겠어!$"
+	//なんて いうか- しょうじき いってｎ
+	//かなり よわっちい かんじ なんだけど-ｌ
+	//アタシと たたかってもｌ
+	//だいじょうぶ なのかな-?ｐ
+	//ぅう-ん……ｐ
+	//まあ いいかっ!ｎ
+	//まずは かる-く おてなみ はいけんねっ!
 
 BattleFrontier_BattleArenaBattleRoom_Text_25810D: @ 825810D
-	.string "Okay! Let's see you ignite my passion\n"
-	.string "for battle!$"
+	.string "자!\n"
+	.string "내 투지에 불을 붙여줘!$"
+	//さあっ!ｎ
+	//アタシの とうしに ひを つけてねっ!
 
 BattleFrontier_BattleArenaBattleRoom_Text_25813F: @ 825813F
-	.string "GRETA: Ow, wait a second!\n"
-	.string "You are tough after all!\p"
-	.string "I like you!\n"
-	.string "Let's see your FRONTIER PASS.$"
+	.string "나리: 어머 잠깐만-!\n"
+	.string "당신 엄청나게 강하잖아-!!\l"
+	.string "마음에 들었어! 프런티어패스 줘 봐!$"
+	//コゴミ『やだ ちょっと-!ｎ
+	//あなた ぜんぜん つよい じゃん-!ｌ
+	//きにいった! フロンティアパス かしてっ!
 
 BattleFrontier_BattleArenaBattleRoom_Text_25819C: @ 825819C
-	.string "The Guts Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "프런티어패스에\n"
+	.string "거츠심볼이 새겨졌다!$"
+	//フロンティアパスにｎ
+	//ガッツシンボルが きざまれた!
 
 BattleFrontier_BattleArenaBattleRoom_Text_2581CF: @ 82581CF
-	.string "Hmm…\p"
-	.string "It's going to be fun the next time!\n"
-	.string "I'm looking forward to it!$"
+	.string "으-음!\p"
+	.string "다음에 만날 때가\n"
+	.string "기대되기 시작했어-!$"
+	//ぅう-ん!ｐ
+	//つぎに あえるときがｎ
+	//たのしみに なって きたな-!
 
 BattleFrontier_BattleArenaBattleRoom_Text_258213: @ 8258213
-	.string "GRETA: Hey! Howdy!\n"
-	.string "You finally won your way up to me!\p"
-	.string "I was getting worried waiting for you!\n"
-	.string "I was really looking forward to seeing\l"
-	.string "you again!$"
+	.string "나리: 네엡! 오랜만이네-!\n"
+	.string "드디어 여기까지 이겨 왔구나!\p"
+	.string "늦어서 걱정했단 말야-!\n"
+	.string "당신과 만나는 걸 엄-청나게!\l"
+	.string "기대하고 있었으니까-!!$"
+	//コゴミ『ウィ-ッス! ごぶさた-!ｎ
+	//や-っと ここまで かちぬいて きたね!ｐ
+	//おそいから しんぱい しちゃったよ-っ!ｎ
+	//あなたと あえるの もの すっご-くっ!ｌ
+	//たのしみに してたん だからね-っ!!
 
 BattleFrontier_BattleArenaBattleRoom_Text_2582A2: @ 82582A2
-	.string "… … …\n"
-	.string "So, are you ready?$"
+	.string "... ... ... ... 그러니까 준비됐어?$"
+	//…… …… …… …… だから い-い?
 
 BattleFrontier_BattleArenaBattleRoom_Text_2582BB: @ 82582BB
-	.string "I won't allow a halfhearted effort!\n"
-	.string "Be ready for a thrashing!$"
+	.string "어중간한 배틀은 용서하지 않을 거야\n"
+	.string "각오하고 있으라고!!$"
+	//はんぱな たたかいじゃ ゆるさないっ!!ｎ
+	//かくご しといてねっ!!
 
 BattleFrontier_BattleArenaBattleRoom_Text_2582F9: @ 82582F9
-	.string "Come on, REFEREE!\n"
-	.string "Let's get this started!$"
+	.string "이봐 심판!\n"
+	.string "얼른 시작하도록 해!!$"
+	//ほらっ しんぱん!ｎ
+	//さっさと はじめなさいっ!!
 
 BattleFrontier_BattleArenaBattleRoom_Text_258323: @ 8258323
-	.string "GRETA: Gaaah! Blown away!\n"
-	.string "Let's see your FRONTIER PASS!$"
+	.string "나리: 아---! 정말---!!\n"
+	.string "얼른 프런티어패스 줘 봐!$"
+	//コゴミ『あ---っ! も---っ!!ｎ
+	//さっさと フロンティアパス かしてよっ!
 
 BattleFrontier_BattleArenaBattleRoom_Text_25835B: @ 825835B
-	.string "The Guts Symbol took on\n"
-	.string "a golden shine!$"
+	.string "거츠심볼이\n"
+	.string "금색으로 빛났다!$"
+	//ガッツシンボルがｎ
+	//きんいろに かがやいた!
 
 BattleFrontier_BattleArenaBattleRoom_Text_258383: @ 8258383
-	.string "Arrrgh!\n"
-	.string "This is so infuriating!\p"
-	.string "If we ever battle again, I won't lose!\n"
-	.string "Don't you forget it! Bye-bye!$"
+	.string "으아-아!! 분하다---아!!\p"
+	.string "다음에 배틀하게 된다면\n"
+	.string "절-대로 지지 않을 거얏! 바이바이!$"
+	//むき-っ!! くやし---っ!!ｐ
+	//こんど たたかう ことが あったらｎ
+	//ぜ-ったい まけない からっ! バイバイっ!

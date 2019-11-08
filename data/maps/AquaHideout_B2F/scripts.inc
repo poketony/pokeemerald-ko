@@ -87,73 +87,89 @@ AquaHideout_B2F_EventScript_Grunt26:: @ 8233EC6
 	end
 
 AquaHideout_B2F_Text_MattIntro: @ 8233EDD
-	.string "Hehehe…\p"
-	.string "Got here already, did you?\n"
-	.string "We underestimated you!\p"
-	.string "But this is it!\p"
-	.string "I'm a cut above the GRUNTS you've seen\n"
-	.string "so far.\p"
-	.string "I'm not stalling for time.\n"
-	.string "I'm going to pulverize you!$"
+	.string "우효효...\p"
+	.string "이미 여기까지 온 건가!\n"
+	.string "생각한 것보다 강한데!\p"
+	.string "하지만 여기까지다!\p"
+	.string "난 여태까지의 조무래기들과는\n"
+	.string "전혀 다르다!\p"
+	.string "시간벌기 따윈 하지 않고\n"
+	.string "널 짓밟아 주지!$"
+	//ウヒョヒョ……ｐ
+	//もう ここまで きたのか!ｎ
+	//おもって いたより やるな!ｐ
+	//だが ここまでだ!ｎ
+	//おれは これまでの したっぱども とはｌ
+	//ひとあじ ちがう!ｐ
+	//じかんかせぎ なんか しねえでｎ
+	//おまえを コテンパンに してやるぜ!
 
 AquaHideout_B2F_Text_MattDefeat: @ 8233F8D
-	.string "Hehehe…\n"
-	.string "So, I lost, too…$"
+	.string "우효효...\n"
+	.string "져버렸나...$"
 
 AquaHideout_B2F_Text_OurBossGotThroughHisPreparations: @ 8233FA6
-	.string "Hehehe!\p"
-	.string "While I was toying with you, our BOSS\n"
-	.string "got through his preparations!$"
+	.string "우효효!\p"
+	.string "나하고 승부하는 사이에\n"
+	.string "지금쯤 리더는\l"
+	.string "목적을 달성하셨을 거다!$"
 
 AquaHideout_B2F_Text_MattPostBattle: @ 8233FF2
-	.string "Hehehe!\p"
-	.string "Our BOSS has already gone on his way to\n"
-	.string "some cave under the sea!\p"
-	.string "If you're going to give chase, you'd\n"
-	.string "better search the big, wide sea beyond\l"
-	.string "LILYCOVE.\p"
-	.string "But will you find it then?\n"
-	.string "Hehehe!$"
+	.string "우효효!\p"
+	.string "리더는 이미 바닷속 깊은 곳의\n"
+	.string "동굴에 도착하셨을 거다!\p"
+	.string "리더를 쫓으려면\n"
+	.string "해안시티 너머의 그 넓은 바다를\l"
+	.string "돌아다녀야 할 걸?\p"
+	.string "리더를 찾을 수 있을까...\n"
+	.string "우효효!$"
 
 AquaHideout_B2F_Text_Grunt4Intro: @ 82340B4
-	.string "Wahahah, I grew weary of waiting!\n"
-	.string "You owe me a battle, too!$"
+	.string "왓핫핫 기다리다\n"
+	.string "목이 빠지는 줄 알았다!\l"
+	.string "나랑도 승부해 주실까?!$"
 
 AquaHideout_B2F_Text_Grunt4Defeat: @ 82340F0
-	.string "Tired of waiting…\n"
-	.string "Lost and dazed…$"
+	.string "기다리다 너무 지쳐서\n"
+	.string "져버렸다...$"
 
 AquaHideout_B2F_Text_Grunt4PostBattle: @ 8234112
-	.string "BOSS…\n"
-	.string "Is this good enough?$"
+	.string "리더...\n"
+	.string "이 정도면 된 건가요-?!$"
 
 AquaHideout_B2F_Text_Grunt22Intro: @ 823412D
-	.string "Warp panels, the HIDEOUT's pride\n"
-	.string "and joy!\p"
-	.string "You're clueless about where you are,\n"
-	.string "aren't you?\p"
-	.string "Fluster and tire out the enemy, then\n"
-	.string "lower the boom! That's our plan!$"
+	.string "우리 아지트의 명물인 워프패널!\p"
+	.string "지금 자신이 어디에 있는지\n"
+	.string "전혀 짐작도 안 가겠죠?!\p"
+	.string "그렇게 상대를 지치게 해서\n"
+	.string "쓰러뜨리는 게 작전인 거예요!$"
 
 AquaHideout_B2F_Text_Grunt22Defeat: @ 82341CE
-	.string "What's wrong with you?\n"
-	.string "You're not tired at all!$"
+	.string "뭐얏!\n"
+	.string "하나도 안 지쳐 있잖아?!$"
 
 AquaHideout_B2F_Text_Grunt22PostBattle: @ 82341FE
-	.string "That reminds me… I can't remember\n"
-	.string "where I put the MASTER BALL.\p"
-	.string "If I fail to guard it, our BOSS will\n"
-	.string "chew me out…$"
+	.string "그러고 보니... 마스터볼을\n"
+	.string "어디에 뒀었는지 까먹었어\p"
+	.string "그걸 지키고 있지 않으면\n"
+	.string "리더에게 혼이 난다구...$"
 
 AquaHideout_B2F_Text_Grunt26Intro: @ 823426F
-	.string "When I joined TEAM AQUA, the first\n"
-	.string "thing I had to learn was how these\l"
-	.string "warp panels connected.$"
+	.string "내가 아쿠아단에 들어와서\n"
+	.string "가장 먼저 배운 게\l"
+	.string "이 워프패널의 배열이다!$"
+	//オレが アクアだんに はいってｎ
+	//まっさきに おぼえ させられたのがｌ
+	//この ワ-プパネルの はいれつだ!
 
 AquaHideout_B2F_Text_Grunt26Defeat: @ 82342CC
-	.string "I was too occupied thinking about\n"
-	.string "the warp panels…$"
+	.string "워프패널에 대한 걸로\n"
+	.string "머리가 가득 차서...$"
+	//ワ-プパネルの ことでｎ
+	//あたまが いっぱい だったから……
 
 AquaHideout_B2F_Text_Grunt26PostBattle: @ 82342FF
-	.string "I'll have to learn about how I can\n"
-	.string "battle more effectively…$"
+	.string "이제부터는 포켓몬 승부의\n"
+	.string "요령도 배워둬야겠다...$"
+	//これからは ポケモンしょうぶのｎ
+	//コツも おぼえて おかないと なあ……

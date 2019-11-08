@@ -926,112 +926,169 @@ LittlerootTown_EventScript_1E8693:: @ 81E8693
 	return
 
 LittlerootTown_Text_1E86BC: @ 81E86BC
-	.string "MOM: {PLAYER}, we're here, honey!\p"
-	.string "It must be tiring riding with our things\n"
-	.string "in the moving truck.\p"
-	.string "Well, this is LITTLEROOT TOWN.\p"
-	.string "How do you like it?\n"
-	.string "This is our new home!\p"
-	.string "It has a quaint feel, but it seems to be\n"
-	.string "an easy place to live, don't you think?\p"
-	.string "And, you get your own room, {PLAYER}!\n"
-	.string "Let's go inside.$"
-
+	.string "엄마: {PLAYER} 고생했어!\p"
+	.string "계속 트럭이 흔들려서\n"
+	.string "정신없었지?\p"
+	.string "여기가 미로마을이란다!\p"
+	.string "어떠니? 이게 우리 가족의\n"
+	.string "새로운 집이야!\p"
+	.string "살짝 고풍스러우면서도\n"
+	.string "살기 좋은 곳일 거 같지 않니?\p"
+	.string "이번에는 {PLAYER}\n" 
+	.string "네 방도 있단다!\p"
+	.string "자 그럼 안으로 들어가자!$"
+	//ママ『{PLAYER} おつかれさま!ｐ
+	//ながいあいだ トラックに ゆられてｎ
+	//たいへん だったでしょ?ｐ
+	//ここが ミシロタウンよ!ｐ
+	//どう? これが わたしたちのｎ
+	//あたらしい おうち!ｐ
+	//ちょっと こふうな かんじでｎ
+	//すみやすそうな ところ でしょ?ｐ
+	//こんどは {PLAYER}の おへやも あるのよ!ｎ
+	//さあ なかに はいりましょ!
+	
 LittlerootTown_Text_1E87E1: @ 81E87E1
-	.string "MOM: Wait, {PLAYER}!$"
-
+	.string "엄마: 잠깐 기다리렴 {PLAYER}!$"
+	//ママ『まって {PLAYER}!
+	
 LittlerootTown_Text_1E87F0: @ 81E87F0
-	.string "MOM: {PLAYER}! {PLAYER}! Did you\n"
-	.string "introduce yourself to PROF. BIRCH?\p"
-	.string "Oh! What an adorable POKéMON!\n"
-	.string "You got it from PROF. BIRCH. How nice!\p"
-	.string "You're your father's child, all right.\n"
-	.string "You look good together with POKéMON!\p"
-	.string "Here, honey! If you're going out on an\n"
-	.string "adventure, wear these RUNNING SHOES.\p"
-	.string "They'll put a zip in your step!$"
-
+	.string "엄마: {PLAYER}! {PLAYER}!\n"
+	.string "털보박사님께는 인사했니?\p"
+	.string "어머! 귀여운 포켓몬!\n"
+	.string "털보박사님께 받았구나\p"
+	.string "역시 피는 못 속여...\n"
+	.string "포켓몬이랑 함께 있는 모습이\l"
+	.string "정말 그럴듯하구나!\p"
+	.string "자! 모험을 떠나려면\n"
+	.string "러닝슈즈를 신어야지!\p"
+	.string "여러 장소를\n"
+	.string "달릴 수 있게 될 거야!$"
+	//ママ『{PLAYER}! {PLAYER}!ｎ
+	//オダマキはかせに あいさつ した?ｐ
+	//あら! かわいい ポケモン!ｎ
+	//オダマキはかせ に いただいたのねｐ
+	//やっぱり パパの こども なのね……ｎ
+	//ポケモンと いっしょに いるのがｌ
+	//さまに なっているわよ!ｐ
+	//ほらっ! ぼうけんに でるならｎ
+	//ランニングシュ-ズを はくと いいわ!ｐ
+	//いろんな ところｎ
+	//はしれるように なるわよ!
+	
 LittlerootTown_Text_1E8925: @ 81E8925
-	.string "{PLAYER} switched shoes with the\n"
-	.string "RUNNING SHOES.$"
-
+	.string "{PLAYER}{K_EUNNEUN}\n"
+	.string "러닝슈즈로 갈아 신었다!$"
+	//{PLAYER}は ランニングシュ-ズにｎ
+	//はきかえた!
+	
 LittlerootTown_Text_1E894F: @ 81E894F
-	.string "MOM: {PLAYER}, those shoes came with\n"
-	.string "instructions.\p"
-	.string "“Press the B Button while wearing these\n"
-	.string "RUNNING SHOES to run extra-fast!\p"
-	.string "“Slip on these RUNNING SHOES and race\n"
-	.string "in the great outdoors!”$"
-
+	.string "엄마: {PLAYER}!\n"
+	.string "이게 설명서란다\p"
+	.string "“러닝슈즈는\n"
+	.string "  B 버튼을 누르면 지금보다\l"
+	.string "  빨리 달릴 수 있게 해 줍니다!\p"
+	.string "  러닝슈즈를 신고\n"
+	.string "  마음껏 달립시다!”$"
+	//ママ『{PLAYER}!ｎ
+	//これが せつめいしょ よｐ
+	//「ランニングシュ-ズはｎ
+	//Bボタンを おすことで いままでよりもｌ
+	//はやく はしれるように なります!ｐ
+	//ランニングシュ-ズを はいてｎ//
+	//おもいっきり そとを はしろう!」
+	
 LittlerootTown_Text_1E8A03: @ 81E8A03
-	.string "… … … … … … … …\n"
-	.string "… … … … … … … …\p"
-	.string "To think that you have your very own\n"
-	.string "POKéMON now…\l"
-	.string "Your father will be overjoyed.\p"
-	.string "…But please be careful.\n"
-	.string "If anything happens, you can come home.\p"
-	.string "Go on, go get them, honey!$"
+	.string "...... ...... ......\n"
+	.string "...... ...... ......\p"
+	.string "네가 자신의 포켓몬을\n"
+	.string "가지게 될 줄이야...\l"
+	.string "아빠가 알면 정말 기뻐하시겠다!\p"
+	.string "...그치만 무리는 하지 마렴\n"
+	.string "무슨 일이 생기면\l"
+	.string "집으로 와도 되니까\p"
+	.string "그럼 힘내!$"
 
 LittlerootTown_Text_1E8ACF: @ 81E8ACF
-	.string "If you use a PC, you can store items\n"
-	.string "and POKéMON.\p"
-	.string "The power of science is staggering!$"
+	.string "PC를 쓰면\n"
+	.string "아이템이나 포켓몬을\l"
+	.string "보관할 수 있다고 하더라고!\p"
+	.string "과학의 힘은 정말 대단해!$"
 
 LittlerootTown_Text_1E8B25: @ 81E8B25
-	.string "PROF. BIRCH spends days in his LAB\n"
-	.string "studying, then he'll suddenly go out in\l"
-	.string "the wild to do more research…\p"
-	.string "When does PROF. BIRCH spend time\n"
-	.string "at home?$"
+	.string "계속 연구소에만 틀어박혀서\n"
+	.string "연구만 하고 있다고 생각했는데\p"
+	.string "또 갑자기\n"
+	.string "산이나 들로 뛰쳐나가니...\p"
+	.string "털보박사님은 도대체\n"
+	.string "언제 집에 가시는 걸까?$"
 
 LittlerootTown_Text_1E8BB8: @ 81E8BB8
-	.string "Um, um, um!\p"
-	.string "If you go outside and go in the grass,\n"
-	.string "wild POKéMON will jump out!$"
+	.string "있지-있지-있지-!\p"
+	.string "여기 앞에 있는 도로\n"
+	.string "풀숲으로 들어가면\l"
+	.string "야생 포켓몬이 나와버려!$"
 
 LittlerootTown_Text_1E8C07: @ 81E8C07
-	.string "It's dangerous if you don't have\n"
-	.string "your own POKéMON.$"
+	.string "자기 포켓몬을 데리고 있지 않으면\n"
+	.string "위험하게 돼!$"
 
 LittlerootTown_Text_1E8C3A: @ 81E8C3A
-	.string "Um, hi!\p"
-	.string "There are scary POKéMON outside!\n"
-	.string "I can hear their cries!\p"
-	.string "I want to go see what's going on,\n"
-	.string "but I don't have any POKéMON…\p"
-	.string "Can you go see what's happening\n"
-	.string "for me?$"
-
+	.string "있지-있지-!\p"
+	.string "지금 마을 밖에서\n"
+	.string "무-서운 포켓몬의 소리가 들렸어!\p"
+	.string "뭐가 일어나고 있는지\n"
+	.string "보러 가고 싶은데\l"
+	.string "나 포켓몬을 데리고 있지 않아서...\p"
+	.string "{K_GIRL_CALL}\n"
+	.string "나 대신에 보고 와줄래?$"
+	//ねえ ねえ!ｐ
+	//いま まちの そとからｎ
+	//こわ-い ポケモンの こえが きこえたよ!ｐ
+	//なにが おこってるのか みにいきたいけどｎ
+	//わたし ポケモン もってないし……ｐ
+	//{K_GIRL_CALL}ｎ
+	//わたしの かわりに みてきて くれる?
+	
 LittlerootTown_Text_1E8CE3: @ 81E8CE3
-	.string "You saved PROF. BIRCH!\n"
-	.string "I'm so glad!$"
+	.string "{K_GIRL_CALL} 덕분에\n"
+	.string "박사님이 무사했어! 다행이다-$"
 
 LittlerootTown_Text_1E8D07: @ 81E8D07
-	.string "Are you going to catch POKéMON?\n"
-	.string "Good luck!$"
+	.string "포켓몬 잡으러 가는 거야?\n"
+	.string "파이팅!$"
 
 LittlerootTown_Text_1E8D32: @ 81E8D32
-	.string "LITTLEROOT TOWN\n"
-	.string "“A town that can't be shaded any hue.”$"
+	.string "여기는 미로마을\n"
+	.string "어떤 색에도 물들지 않는 마을$"
 
 LittlerootTown_Text_1E8D69: @ 81E8D69
-	.string "PROF. BIRCH'S POKéMON LAB$"
+	.string "“털보박사 포켓몬 연구소”$"
 
 LittlerootTown_Text_1E8D83: @ 81E8D83
-	.string "{PLAYER}'s HOUSE$"
+	.string "“{PLAYER}의 집”$"
 
 LittlerootTown_Text_1E8D8E: @ 81E8D8E
-	.string "PROF. BIRCH'S HOUSE$"
+	.string "“털보박사의 집”$"
 
 LittlerootTown_Text_1E8DA2: @ 81E8DA2
-	.string "PROF. BIRCH: Well, well, {PLAYER}{KUN}!\n"
-	.string "That was good work out there!\p"
-	.string "I knew there was something special\n"
-	.string "about you when I first saw you,\l"
-	.string "but I never expected this.\p"
-	.string "Oh, yes. Do you still have the POKéDEX\n"
-	.string "I gave you?\p"
-	.string "I have something to show you.\n"
-	.string "Let's go to my LAB.$"
-
+	.string "털보박사: 이야- {PLAYER}{K_AYA}!\n"
+	.string "그건 그렇고 훌륭하구나\p"
+	.string "처음에 너를 봤을 때부터\n"
+	.string "보통이 아닐 거라고 생각했었는데\l"
+	.string "설마 이 정도일 줄이야\p"
+	.string "그래그래!\n"
+	.string "네게 주었던 포켓몬 도감\l"
+	.string "아직 가지고 있지?\p"
+	.string "조금 이야기할 게 있으니까\n"
+	.string "함께 연구소까지 따라와 주렴$"
+	//オダマキ『いや- {PLAYER}{KUN}!ｎ
+	//それにしても みごと だったねｐ
+	//さいしょに きみを みたときからｎ
+	//ただもの ではないと おもったけどｌ
+	//まさか これほど とはねえｐ
+	//そうそう!ｎ
+	//きみに あげた ポケモンずかんｌ
+	//まだ もってるよね?ｐ
+	//ちょっと はなしが あるからｎ
+	//いっしょに けんきゅうじょまで おいで
