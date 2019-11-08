@@ -571,7 +571,7 @@ BattleFrontier_BattleArenaBattleRoom_Text_257C68: @ 8257C68
 
 BattleFrontier_BattleArenaBattleRoom_Text_257C93: @ 8257C93
 FallarborTown_BattleTentBattleRoom_Text_257C93: @ 8257C93
-	.string "심판: 연승 팀 배틀!\n"
+	.string "심판: 연승 팀배틀!\n"
 	.string "시작---!!$"
 	//しんぱん『かちぬきチ-ムバトル!ｎ
 	//はじめ---!!
@@ -644,7 +644,7 @@ FallarborTown_BattleTentBattleRoom_Text_257E6B: @ 8257E6B
 
 BattleFrontier_BattleArenaBattleRoom_Text_257E9E: @ 8257E9E
 FallarborTown_BattleTentBattleRoom_Text_257E9E: @ 8257E9E
-	.string "연승 팀 배틀의 도전을\n"
+	.string "연승 팀배틀의 도전을\n"
 	.string "중단할까요?$"
 	//かちぬきチ-ムバトルの ちょうせんをｎ
 	//ちゅうし なされますかな?

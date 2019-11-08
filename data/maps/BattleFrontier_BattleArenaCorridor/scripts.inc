@@ -86,5 +86,5 @@ BattleFrontier_BattleArenaCorridor_Movement_257446: @ 8257446
 
 BattleFrontier_BattleArenaCorridor_Text_257449: @ 8257449
 	.string "이 앞이 대전의 방입니다!\n"
-	.string "부디 안으로 들어가시지요!$"
+	.string "부디 안으로 들어가 주십시오!$"
 
