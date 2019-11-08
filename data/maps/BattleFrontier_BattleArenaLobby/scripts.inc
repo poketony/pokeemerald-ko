@@ -598,8 +598,8 @@ BattleFrontier_BattleArenaLobby_Text_256977: @ 8256977
 	//この しょうひんを おうけとり くだされ!
 
 BattleFrontier_BattleArenaLobby_Text_2569BE: @ 82569BE
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER}{K_EUNNEUN}\n"
+	.string "{STR_VAR_1}{K_EULREUL} 받았다!$"
 	//{PLAYER}はｎ
 	//{STR_VAR_1}を もらった!
 
