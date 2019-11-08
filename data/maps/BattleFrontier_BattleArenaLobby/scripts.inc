@@ -604,81 +604,80 @@ BattleFrontier_BattleArenaLobby_Text_2569BE: @ 82569BE
 	//{STR_VAR_1}を もらった!
 
 BattleFrontier_BattleArenaLobby_Text_2569D8: @ 82569D8
-	.string "Oh?\n"
-	.string "Your BAG seems to be full.\p"
-	.string "I urge you to clear space and\n"
-	.string "return for your prize.$"
+	.string "..오옷!\n"
+	.string "도구가 가득하시군요!\p"
+	.string "도구를 정리하고 나서\n"
+	.string "다시 와주십시오!$"
 	//……おおっ!ｎ
 	//どうぐが いっぱいの ようですな!ｐ
 	//どうぐを せいりしてからｎ
 	//また おこしくだされ!
 
 BattleFrontier_BattleArenaLobby_Text_256A2C: @ 8256A2C
-	.string "Thank you so much for participating!\p"
-	.string "Please wait while I save the game.$"
+	.string "수고하셨습니다!\p"
+	.string "성적을 리포트에 작성하고 있으므로\n"
+	.string "잠시 기다려 주십시오$"
 	//おつかれさまでした!ｐ
 	//せいせきを レポ-トに かきますのでｎ
 	//おまちくだされ!
 
 BattleFrontier_BattleArenaLobby_Text_256A74: @ 8256A74
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.string "다음에 도전해 주세요\n"
+	.string "기다리고 있겠습니다!$"
 	//またの ちょうせんをｎ
 	//おまちして おりますぞ!
 
 BattleFrontier_BattleArenaLobby_Text_256AA1: @ 8256AA1
-	.string "We have been looking forward to\n"
-	.string "your arrival.\p"
-	.string "Before I show you to the BATTLE\n"
-	.string "ARENA, I must save the game.\l"
-	.string "Please wait.$"
+	.string "기다리고 있었습니다!\p"
+	.string "배틀아레나에 입장하기 전에\n"
+	.string "리포트를 작성하고 있으므로\l"
+	.string "잠시 기다려 주십시오!$"
 	//おまちしておりました!ｐ
 	//バトルアリ-ナに おつれする まえにｎ
 	//レポ-トを かきますので おまちくだされ!
 
 BattleFrontier_BattleArenaLobby_Text_256B19: @ 8256B19
-	.string "Shall I record your last BATTLE ARENA\n"
-	.string "match on your FRONTIER PASS?$"
+	.string "배틀아레나에서\n"
+	.string "마지막으로 한 배틀을\l"
+	.string "프런티어패스에 기록하겠습니까?$"
 	//バトルアリ-ナでｎ
 	//さいごに おこなった たたかいをｌ
 	//フロンティアパスに きろく されますかな?
 
 BattleFrontier_BattleArenaLobby_Text_256B5C: @ 8256B5C
-	.string "I lost on the REFEREE's decision…\p"
-	.string "I don't think it was a good idea to only\n"
-	.string "use defensive moves and not attack…$"
+	.string "판정에서 져버렸어...\p"
+	.string "방어하기만 해서\n"
+	.string "공격하지 못한 게 좋지 않았나 봐...$"
 	//はんていで まけちゃった……ｐ
 	//まもる ばっかりでｎ
 	//せめなかったのが よくなかった みたい……
 
 BattleFrontier_BattleArenaLobby_Text_256BCB: @ 8256BCB
-	.string "I won in judging!\p"
-	.string "Landing hits consistently on\n"
-	.string "the opponent's POKéMON worked!$"
+	.string "판정에서 이겼어!\p"
+	.string "상대 포켓몬에게\n"
+	.string "기술을 확실하게 맞춰서 다행이야!$"
 	//はんていで かったぜ!ｐ
 	//あいての ポケモンにｎ
 	//わざを かくじつに あてたのが よかったぜ!
 
 BattleFrontier_BattleArenaLobby_Text_256C19: @ 8256C19
-	.string "Our match was declared a draw.\p"
-	.string "When we ran out of time, both my\n"
-	.string "POKéMON and the opponent's had about\l"
-	.string "the same amount of HP left.$"
+	.string "판정으로 무승부가 났어\p"
+	.string "시간이 다 되었을 때\n"
+	.string "상대 포켓몬과 남은 HP가\l"
+	.string "같았기 때문이지...$"
 	//はんていで ひきわけ だったよｐ
 	//じかんぎれに なったときにｎ
 	//あいて ポケモンと のこりの HPがｌ
 	//おなじ くらい だったからねぇ……
 
 BattleFrontier_BattleArenaLobby_Text_256C9A: @ 8256C9A
-	.string "In the BATTLE ARENA, the order of\n"
-	.string "POKéMON is totally important.\p"
-	.string "For example, if your first POKéMON\n"
-	.string "has certain type disadvantages,\l"
-	.string "try making your second POKéMON one\l"
-	.string "with moves that are super effective\l"
-	.string "against the first one.\p"
-	.string "I think that will be a good way of\n"
-	.string "making an effective team.$"
+	.string "배틀아레나에서는 포켓몬의 순서가\n"
+	.string "엄청 중요해!\p"
+	.string "예를 들어 1번째 포켓몬의\n"
+	.string "약점이 되는 타입에 대해\p"
+	.string "효과가 굉장한 기술을 가지고 있는\n"
+	.string "포켓몬을 2번째로 참가시킨다면\l"
+	.string "좋은 팀이 될 거라고 생각해!$"
 	//バトルアリ-ナでは ポケモンの じゅんばんがｎ
 	//とっても だいじ なのよ!ｐ
 	//たとえば 1ばんめの ポケモンのｎ
@@ -689,13 +688,14 @@ BattleFrontier_BattleArenaLobby_Text_256C9A: @ 8256C9A
 
 BattleFrontier_BattleArenaLobby_Text_256DB8: @ 8256DB8
 FallarborTown_BattleTentLobby_Text_256DB8: @ 8256DB8
-	.string "The Set KO Tourney's rules are listed.$"
+	.string "연승 팀배틀의\n"
+	.string "규칙이 적혀 있다!$"
 	//かちぬきチ-ムバトルのｎ
 	//ル-ルが かかれている!
 
 BattleFrontier_BattleArenaLobby_Text_256DDF: @ 8256DDF
 FallarborTown_BattleTentLobby_Text_256DDF: @ 8256DDF
-	.string "Which heading do you want to read?$"
+	.string "어느 설명을 읽겠습니까?$"
 	//どの せつめいを よみますか?
 
 BattleFrontier_BattleArenaLobby_Text_256E02: @ 8256E02
