@@ -509,10 +509,12 @@ BattleFrontier_BattleArenaLobby_Text_2565A5: @ 82565A5
 	.string "3마리 준비해 주십시오!\p"
 	.string "또한 지니게 할 도구도\n"
 	.string "모두 다른 도구로 해주십시오!\p"
-	.string "그리고 알, 뮤, 뮤츠\n"
-	.string "칠색조, 루기아, 세레비,\l"
-	.string "가이오가, 그란돈, 레쿠쟈\l"
-	.string "지라치 테오키스는\l"
+	.string "그리고 알, 뮤,\n"
+	.string "뮤츠, 칠색조,\l"
+	.string "루기아, 세레비,\l"
+	.string "가이오가, 그란돈,\l"
+	.string "레쿠쟈, 지라치,\l"
+	.string "테오키스는\l"
 	.string "참가시킬 수 없습니다!\p"
 	.string "준비되면\n"
 	.string "다시 방문해 주십시오!$"
@@ -537,10 +539,12 @@ BattleFrontier_BattleArenaLobby_Text_2566A8: @ 82566A8
 	.string "3마리 준비해 주십시오!\p"
 	.string "또한 지니게 할 도구도\n"
 	.string "모두 다른 도구로 해주십시오!\p"
-	.string "그리고 알, 뮤, 뮤츠\n"
-	.string "칠색조, 루기아, 세레비,\l"
-	.string "가이오가, 그란돈, 레쿠쟈\l"
-	.string "지라치 테오키스는\l"
+	.string "그리고 알, 뮤,\n"
+	.string "뮤츠, 칠색조,\n"
+	.string "루기아, 세레비,\l"
+	.string "가이오가, 그란돈,\l"
+	.string "레쿠쟈, 지라치,\l"
+	.string "테오키스는\l"
 	.string "참가시킬 수 없습니다!\p"
 	.string "준비되면\n"
 	.string "다시 방문해 주십시오!$"
@@ -700,16 +704,16 @@ FallarborTown_BattleTentLobby_Text_256DDF: @ 8256DDF
 
 BattleFrontier_BattleArenaLobby_Text_256E02: @ 8256E02
 FallarborTown_BattleTentLobby_Text_256E02: @ 8256E02
-	.string "The Set KO Tourney has special rules,\n"
-	.string "unlike standard battles.\p"
-	.string "First, one battle lasts only\n"
-	.string "three turns.\p"
-	.string "If the outcome is not decided after\n"
-	.string "three turns, it goes to judging.\p"
-	.string "The REFEREE will choose the winner\n"
-	.string "based on how the POKéMON battled.\p"
-	.string "Also, a POKéMON cannot be switched out\n"
-	.string "until its battle's outcome is decided.$"
+	.string "연승 팀배틀은 보통의 배틀과\n"
+	.string "다른 특별한 규칙이 있습니다\p"
+	.string "먼저 1번째 배틀은\n"
+	.string "3턴에 끝나게 됩니다\p"
+	.string "3턴에 승부가 나지 않을 때는\n"
+	.string "심판에 의한 판정이 납니다\p"
+	.string "판정은 포켓몬의 배틀 방식을\n"
+	.string "보고 승패를 결정합니다\p"
+	.string "또 승부가 날 때까지\n"
+	.string "포켓몬을 교체할 수 없습니다$"
 	//かちぬきチ-ムバトルは ふつうの たたかいとｎ
 	//ちがい とくべつな ル-ルが ありますｐ
 	//まず 1かいの たたかいはｎ
@@ -723,36 +727,36 @@ FallarborTown_BattleTentLobby_Text_256E02: @ 8256E02
 
 BattleFrontier_BattleArenaLobby_Text_256F43: @ 8256F43
 FallarborTown_BattleTentLobby_Text_256F43: @ 8256F43
-	.string "The first judging factor is “Mind.”\n"
-	.string "This factor evaluates how aggressive\l"
-	.string "the battlers were.\p"
-	.string "The judging is based on how often\n"
-	.string "the TRAINERS ordered the use of\l"
-	.string "offensive moves.$"
+	.string "1번째 판정 포인트인\n"
+	.string "“마음”은\l"
+	.string "공격한 정도를 봅니다\p"
+	.string "얼마나 트레이너가 공격하는 기술로\n"
+	.string "명령을 따랐는지에 따라\l"
+	.string "평가가 바뀝니다$"
 	//1つめの はんてい ポイントであるｎ
-	//「こころ」はｌせめる きもちを みられますｐ
+	//「こころ」はｌ
+	//せめる きもちを みられますｐ
 	//どれだけ トレ-ナ-が こうげきする わざをｎ
-	//めいれい したかに よってｌひょうかが かわります
+	//めいれい したかに よってｌ
+	//ひょうかが かわります
 
 BattleFrontier_BattleArenaLobby_Text_256FF2: @ 8256FF2
 FallarborTown_BattleTentLobby_Text_256FF2: @ 8256FF2
-	.string "The second judging factor is “Skill.”\n"
-	.string "This factor evaluates how effectively\l"
-	.string "POKéMON moves were used.\p"
-	.string "If a move worked successfully,\n"
-	.string "the Skill rating goes up.\p"
-	.string "If a move failed, the Skill rating\n"
-	.string "is lowered.\p"
-	.string "If it was an offensive move, the Skill\n"
-	.string "rating goes up if the move was “super\l"
-	.string "effective” and goes down if it was\l"
-	.string "“not very effective.”\p"
-	.string "The Skill rating will not go up for\n"
-	.string "moves such as PROTECT and DETECT.\p"
-	.string "If the opponent used PROTECT or\n"
-	.string "DETECT, and your POKéMON failed to\l"
-	.string "hit with a move, its Skill rating will not\l"
-	.string "go down.$"
+	.string "2번째 판정 포인트인\n"
+	.string "“기술”은 포켓몬의 기술이\l"
+	.string "잘 통했는지를 봅니다\p"
+	.string "기술이 성공하면\n"
+	.string "평가가 올라갑니다\p"
+	.string "기술이 실패하면\n"
+	.string "평가가 떨어집니다\p"
+	.string "게다가 상대에게 기술을 맞혔을 때\n"
+	.string "“효과가 굉장하면” 올라가고\l"
+	.string "“효과가 별로면” 내려갑니다\p"
+	.string "또 “방어”나 “판별”은\n"
+	.string "써도 평가가 오르지 않습니다\p"
+	.string "상대의 “방어”나 “판별”로\n"
+	.string "기술을 쓰지 못해도\l"
+	.string "평가는 내려가지 않습니다$"
 	//2つめの はんてい ポイントであるｎ
 	//「わざ」は ポケモンの わざがｌ
 	//うまく できたかを みられますｐ
@@ -771,12 +775,13 @@ FallarborTown_BattleTentLobby_Text_256FF2: @ 8256FF2
 
 BattleFrontier_BattleArenaLobby_Text_257202: @ 8257202
 FallarborTown_BattleTentLobby_Text_257202: @ 8257202
-	.string "The third judging factor is “Body.”\n"
-	.string "This factor is based on how much HP\l"
-	.string "remained at the end of a battle.\p"
-	.string "The rating takes into account how much\n"
-	.string "HP a POKéMON had at the start of\l"
-	.string "battle, and what remained at the end.$"
+	.string "3번째 판정 포인트인\n"
+	.string "“판별”은 대전 이후의\l"
+	.string "포켓몬의 HP를 봅니다\p"
+	.string "대전이 시작하기 전의\n"
+	.string "HP와 비교해\l"
+	.string "대전 후의 HP가 얼마나 남았는가로\l"
+	.string "평가가 바뀝니다$"
 	//3つめの はんてい ポイントであるｎ
 	//「からだ」は たいせん したあとのｌ
 	//ポケモンの HPを みられますｐ
@@ -786,17 +791,15 @@ FallarborTown_BattleTentLobby_Text_257202: @ 8257202
 	//ひょうかが かわります
 
 BattleFrontier_BattleArenaLobby_Text_2572D9: @ 82572D9
-	.string "A victory snatched from the ARENA\n"
-	.string "TYCOON, and a seven-TRAINER sweep!\p"
-	.string "We congratulate you on your most\n"
-	.string "splendid challenge!$"
+	.string "아레나캡틴에게서의 승리!\n"
+	.string "그리고 7명을 돌파하셨군요!\l"
+	.string "정말 훌륭했었습니다!$"
 	//アリ-ナキャプテンからの きんぼし!ｎ
 	//ならびに 7にんぬき たっせい!ｌ
 	//まこと みごとで ございました!
 
 BattleFrontier_BattleArenaLobby_Text_257353: @ 8257353
-	.string "My dear challenger, in recognition of\n"
-	.string "your indefatigable spirit, please\l"
-	.string "accept these Battle Point(s).$"
+	.string "손님의 불굴의 투지를 높이 사\n"
+	.string "배틀포인트를 드리겠습니다!$"
 	//おきゃくじんの ふくつの とうしを たたえｎ
 	//バトルポイントを さしあげましょう!
